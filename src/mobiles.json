@@ -1,0 +1,147 @@
+
+[
+{
+"id":1,
+"name":"OnePlus Nord CE 2 Lite 5G (Blue Tide, 6GB RAM, 128GB Storage)",
+"image":"mob1.jpg",
+"price":18999.00
+},
+{
+"id":2,
+"name":"Redmi Note 10T 5G (Mint Green, 4GB RAM, 64GB Storage)",
+"image":"mob2.jpg",
+"price":11999.00
+},
+{
+"id":3,
+"name":"Redmi 9 Activ (Coral Green, 4GB RAM, 64GB Storage)",
+"image":"mob3.jpg",
+"price":8999.00
+},
+{
+"id":4,
+"name":"Redmi Note 10S (Frost White, 6GB RAM, 64GB Storage)",
+"image":"mob4.jpg",
+"price":12999.00
+},
+{
+"id":5,
+"name":"realme narzo 50 (Speed Black, 4GB RAM+64GB Storage)",
+"image":"mob5.jpg",
+"price":12999.00
+},
+{
+"id":6,
+"name":"Samsung Galaxy M13 (Midnight Blue, 4GB, 64GB Storage)",
+"image":"mob6.jpg",
+"price":11999.00
+},
+{
+"id":7,
+"name":"Redmi Note 11T 5G (Aquamarine Blue, 6GB RAM, 128GB ROM)",
+"image":"mob7.jpg",
+"price":15999.00
+},
+{
+"id":8,
+"name":"Xiaomi Mi A3 (Not Just Blue, 4GB RAM, 64GB Storage)",
+"image":"mob8.jpg",
+"price":12899.00
+},
+{
+"id":9,
+"name":"Redmi Y3 (Elegant Blue, 3GB RAM, 32MP Selfie Camera, 32GB Storage, 4000mAH Battery)",
+"image":"mob9.jpg",
+"price":9480.00
+},
+{
+"id":10,
+"name":"Redmi Note 8 (Space Black, 4GB RAM, 64GB Storage)",
+"image":"mob10.jpg",
+"price":12999.00
+},
+{
+"id":11,
+"name":"Redmi Note 9 Pro (Interstellar Black, 4GB RAM, 64GB Storage)",
+"image":"mob11.jpg",
+"price":14199.00
+},
+{
+"id":12,
+"name":"Oppo A54 (Starry Blue, 6GB RAM, 128GB Storage)",
+"image":"mob12.jpg",
+"price":11990.00
+},
+{
+"id":13,
+"name":"OPPO A15s (Rainbow Silver, 4GB RAM, 64GB Storage)",
+"image":"mob13.jpg",
+"price":9990.00
+},
+{
+"id":14,
+"name":"OPPO A74 5G (Fluid Black, 6GB RAM, 128GB Storage)",
+"image":"mob14.jpg",
+"price":14990.00
+},
+{
+"id":15,
+"name":"Redmi 10 (Caribbean Green, 4GB RAM, 64GB Storage)",
+"image":"mob15.jpg",
+"price":10321.00
+},
+{
+"id":16,
+"name":"Realme 9 5G (Meteor Black, 4GB RAM, 64GB Storage)",
+"image":"mob16.jpg",
+"price":14840.00
+},
+{
+"id":17,
+"name":"Infinix Hot 11 2022 (Aurora Green, 4GB RAM 64GB Storage)",
+"image":"mob17.jpg",
+"price":9600.00
+},
+{
+"id":18,
+"name":"Micromax in 1b (Blue, 64 GB)  (4 GB RAM)",
+"image":"mob18.jpg",
+"price":8499.00
+},
+{
+"id":19,
+"name":"Tecno Spark 7T(Nebula Orange, 4GB RAM, 128GB Storage)",
+"image":"mob19.jpg",
+"price":10399.00
+},
+{
+"id":20,
+"name":"Motorola Moto G52 (4GB, 64GB) (Charcoal Grey)",
+"image":"mob20.jpg",
+"price":16990.00
+},
+{
+"id":21,
+"name":"Vivo Y95 (Nebula Purple, 4GB RAM, 64GB Storage)",
+"image":"mob21.jpg",
+"price":15990.00
+},
+{
+"id":22,
+"name":"Micromax in 1b (Blue, 64 GB)  (4 GB RAM)",
+"image":"mob18.jpg",
+"price":8499.00
+},
+{
+"id":23,
+"name":"Samsung Galaxy M13 (Midnight Blue, 4GB, 64GB Storage)",
+"image":"mob6.jpg",
+"price":11999.00
+},
+{
+"id":24,
+"name":"Redmi Note 8 (Space Black, 4GB RAM, 64GB Storage)",
+"image":"mob10.jpg",
+"price":12999.00
+}
+]
